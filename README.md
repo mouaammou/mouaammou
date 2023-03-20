@@ -1,8 +1,3 @@
-</p>
-<p align="center">  
-<img src ="https://badge.mediaplus.ma/darkblue/mouaammo">
-</p>
-
 ## root:~$ whoami
 >  Computer Science student at [1337](https://1337.ma/en/) \
 >  Interested in Web Developement.
@@ -13,8 +8,6 @@
 </p>
 
 
-
-<pre>
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
@@ -40,45 +33,3 @@
 ├─◈ <a href="https://github.com/achrafelkhnissi/CPP_Modules">CPP_Modules</a>
 │
 └───────────────────────────────▰▰▰
-
-┌──┤ COMMUNITY ├─────────▰▰▰
-│
-├─◈ If you need any help please join our community.
-├─◈ <a href="https://discord.gg/vTvkDgsS6J">Discord Server</a>
-│
-└───────────────────────────────▰▰▰
-
-</pre>
-
---------------
-
-<p align="center">
-	<a href="mailto:achraf.elkhnissi@icloud.com">
-		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:achraf.elkhnissi@gmail.com&color=3d85c6" />
-	</a>
-	<span> * </span>
-    <a href="https://www.linkedin.com/in/achrafelkhnissi/">
-        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
-    </a>
-    <span> * </span>
-    <a href="https://twitter.com/suprivada">
-        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=1DA1F2" />
-    </a>
-    <span> * </span>
-    <a href="https://www.linkedin.com/in/achrafelkhnissi/">
-        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=7289da" />
-    </a>
-
-</p>
-
----------------
-| [![ael-khni's GitHub stats](https://github-readme-stats.vercel.app/api?username=achrafelkhnissi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/achrafelkhnissi?tab=repositories) |
-|:-:|:-:|
-
-<p align="center">
-	<img alt="achrafelkhnissi's visitors" src="https://komarev.com/ghpvc/?username=achrafelkhnissi&color=8c36db&style=flat&label=visitors" />
-	<img alt="achrafelkhnissi's followers" src="https://img.shields.io/github/followers/achrafelkhnissi?color=blueviolet" />
-	<img alt="achrafelkhnissi's stars" src="https://img.shields.io/github/stars/achrafelkhnissi?color=blueviolet" />
-</p>
-
----------------
