@@ -26,7 +26,7 @@
 ├─◈ <a href="https://github.com/achrafelkhnissi/Born2beRoot">Born2beRoot</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/minitalk">minitalk</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/so_long">so_long</a>
-├─◈ <a href="https://github.com/achrafelkhnissi/push_swap">push_swap</a>
+├─◈ <a href="https://github.com/mouaammou/push_swap">push_swap</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/Philosophers">Philosophers</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/minishell">minishell</a>
 ├─◈ <a href="https://github.com/achrafelkhnissi/cub3d">Cub3D</a>
