@@ -1,12 +1,3 @@
-## root:~$ whoami
-
-┌──┤ WHOAMI ├─────────▰▰▰
-│
-├─▣ Computer Science student at [1337](https://1337.ma/en/)
-├─▣ Interested in Web Developement.
-│
-└───────────────────────────────▰▰▰
-
 <p align="center">  
  <img src ="https://badge.mediaplus.ma/darkblue/mouaammo">
 </p>
