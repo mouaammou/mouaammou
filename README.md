@@ -7,6 +7,9 @@
 │
 └───────────────────────────────▰▰▰
 
+<p align="center">  
+ <img src ="https://badge.mediaplus.ma/darkblue/mouaammo">
+</p>
 ### Hi there 👋
 
 <p>
@@ -41,11 +44,6 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=AYB-CHA&theme=whatsapp-dark&hide_border=true" height="150px">
 </div>
-
-<p align="center">  
-<img src ="https://badge.mediaplus.ma/darkblue/mouaammo">
-</p>
-
 <pre>
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
