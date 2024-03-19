@@ -29,9 +29,3 @@
 
    <img src="https://skillicons.dev/icons?i=linux,bash,docker,mysql,vim,figma,postman,vscode" height="40px">
 
-
-### Stats 📊
-
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=AYB-CHA&theme=whatsapp-dark&hide_border=true" height="150px">
-</div>
