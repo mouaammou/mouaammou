@@ -10,7 +10,7 @@
   <br>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
- 📧 &emsp; Reach me anytime: mouadamassine@gmail.com<br/>
+ 📧 &emsp; Reach me anytime: jsamassine@gmail.com<br/>
 </p>
 
 ### PL && Frameworks 🌐
