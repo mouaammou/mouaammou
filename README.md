@@ -1,104 +1,102 @@
-<h1 align="center">Mouad Ouaammou — Software Engineer </h1>
+<h1 align="center">Mouad Ouaammou · AI & Full-Stack Developer</h1>
 
 <p align="center">
-  Full Stack Developer specializing in <b>Next.js</b>, <b>React</b>, and modern web technologies.<br>
-  Building fast, scalable, and user-focused applications with clean, maintainable code.<br/>
-  https://junior-portfolio-orcin.vercel.app/
+  I build intelligent, production-ready web platforms with modern JavaScript stacks and practical AI integration.
+</p>
+
+<p align="center">
+  <a href="https://junior-portfolio-orcin.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mouad-ouaammou-36a7b8175/">LinkedIn</a> •
+  <a href="mailto:jsamassine@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Development-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20React%20%7C%20TypeScript-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-10B981?style=for-the-badge" />
 </p>
 
 ---
 
-##  About Me
+## About Me
 
-Hi! I'm **Mouad Ouaammou**, a passionate developer with **2+ years of experience** creating production-ready web applications. I focus on:
+I’m a software engineer with 2+ years of experience shipping scalable web products and AI-powered features.
 
--  **Component Architecture** — Reusable and scalable UI systems  
--  **API Integration** — Smooth backend–frontend communication  
--  **Cloud-Ready Solutions** — Deployment-optimized applications  
--  **User Experience** — Clean, performant interfaces  
-
-Always learning, always building, always improving.
+- Design reusable front-end architectures for fast product delivery
+- Build robust backend integrations and data pipelines
+- Develop AI-assisted workflows and agent-style experiences
+- Focus on clean UX, performance, and maintainable code
 
 ---
 
-##  Professional Experience
+## What I Build
 
-###  **Software Engineer — OCP Maintenance Solutions**  
-*Sep 2025 – Present | Casablanca, Morocco*  
+- **AI Product Features**: AI-powered agents, automation workflows, and usage-aware systems  
+- **Full-Stack Web Apps**: Next.js/React frontends with scalable Node.js/Supabase backends  
+- **Business Tools**: Dashboards, analytics platforms, and operations-focused internal products  
+
+---
+
+## Experience
+
+### Software Engineer — OCP Maintenance Solutions
+*Sep 2025 – Present · Casablanca, Morocco*  
 🔗 https://ocp-ms.com/
 
--  Built an **internal analytics dashboard** converting Excel datasets into dynamic visual reports  
--  Developed **reusable React components** with scalable state logic using Redux Toolkit  
--  Integrated **REST APIs** and ensured cross-team data consistency  
--  Automated data workflows to improve operational efficiency  
+- Delivered an internal analytics dashboard transforming Excel sources into dynamic insights
+- Built reusable React + Redux Toolkit modules for scalable product growth
+- Integrated REST services to ensure reliable cross-team data flow
+- Automated recurring data workflows for better operational efficiency
 
----
-
-###  **Full Stack Web Developer — Exchange Lab**  
-*Aug 2024 – Sep 2025 | Remote*  
+### Full Stack Web Developer — Exchange Lab
+*Aug 2024 – Sep 2025 · Remote*  
 🔗 https://www.xchangelab.info/fr
 
--  Developed a complete **school management system** (Next.js + Supabase)  
-- RBAC, attendance tools, admin dashboards  
--  Integrated **Moodle API** for automated student/course management  
--  Built responsive landing pages with modern UI design  
--  Implemented real-time data synchronization with Supabase  
+- Developed a full school management platform (Next.js + Supabase)
+- Implemented RBAC, attendance tools, and admin reporting dashboards
+- Integrated Moodle API for automated student and course operations
+- Shipped responsive, modern interfaces with real-time synchronized data
 
----
-
-###  **Full Stack Web Developer — Codro.dev**  
-*Jun 2023 – Jul 2024 | Remote*  
+### Full Stack Web Developer — Codro.dev
+*Jun 2023 – Jul 2024 · Remote*  
 🔗 https://www.codro.dev/
 
--  Created an **AI-powered agent** for Shopify theme generation  
--  Built **subscription/payment systems** with usage tracking  
--  Implemented secure authentication and data protection best practices  
--  Delivered the platform from prototype to production deployment  
+- Built an AI-powered Shopify theme generation agent
+- Implemented subscription and payment systems with usage tracking
+- Applied secure authentication and data protection best practices
+- Delivered end-to-end from prototype to production
 
 ---
 
-##  Education
+## Tech Stack
 
-### **1337 Coding School — UM6P**  
-*Sep 2022 – Oct 2024 | Benguerir, Morocco*
+**Frontend**  
+React.js · Next.js · TypeScript · Tailwind CSS · Shadcn UI · Redux Toolkit
 
--  Intensive **peer-to-peer software engineering** experience  
--  Mastered CS fundamentals through project-based learning  
--  Built systems using C, C++, and modern web technologies  
+**Backend**  
+Node.js · Express.js · PostgreSQL · Supabase · Prisma · REST APIs
 
-### **Bachelor in Mathematics & Computer Science — Ibn Zohr University**  
-*Aug 2017 – Sep 2021 | Agadir, Morocco*
-
--  Strong foundations in mathematics & CS theory  
--  Algorithms, data structures, computational logic  
+**Tools**  
+Git · GitHub · Vercel · Netlify · Postman · Figma · ESLint · Prettier
 
 ---
 
-##  Technical Skills
+## Education
 
-### **Frontend Development**
-React.js • Next.js • TypeScript
-Tailwind CSS • Shadcn UI • Bootstrap
-Redux Toolkit • Server Components
-Responsive Design • SSR/SSG
+### 1337 Coding School — UM6P
+*Sep 2022 – Oct 2024 · Benguerir, Morocco*
 
+- Project-based software engineering in C, C++, and modern web stacks
+- Intensive peer-learning model and strong CS fundamentals
 
-### **Backend Development**
-Node.js • Express.js
-PostgreSQL • Supabase
-REST APIs • Next.js API Routes
-Prisma ORM
+### Bachelor in Mathematics & Computer Science — Ibn Zohr University
+*Aug 2017 – Sep 2021 · Agadir, Morocco*
 
-### **Tools & Technologies**
-Git • GitHub • VS Code
-Vercel • Netlify
-ESLint • Prettier
-Postman • Figma
-
+- Foundations in algorithms, data structures, and computational logic
 
 ---
 
-##  Languages
+## Languages
 
 | Language | Proficiency |
 |----------|-------------|
@@ -109,33 +107,15 @@ Postman • Figma
 
 ---
 
-##  Soft Skills
+## Let's Connect
 
-- Teamwork & Leadership  
-- Ownership & responsibility  
-- Strong problem-solving  
-- Clear understanding of requirements  
-- Passion for clean, maintainable code  
+<p align="center">
+  <a href="https://www.linkedin.com/in/mouad-ouaammou-36a7b8175/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jsamassine@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
-
-##  Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouad-ouaammou-36a7b8175/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsamassine@gmail.com)
-
-  **Casablanca, Morocco**
-
-</div>
-
----
-
-<div align="center">
-
-###  Open to exciting opportunities and collaborations!  
-*Building the future, one commit at a time.* 
-
-</div>
-
+<p align="center"><b>Open to AI and full-stack opportunities.</b></p>
