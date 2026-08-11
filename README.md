@@ -1,13 +1,10 @@
-<h1 align="center">Mouad Ouaammou · AI & Full-Stack Developer</h1>
+<h1 align="center">Hi, I'm Mouad Ouaammou 👋</h1>
+<h3 align="center">AI & Full-Stack Developer building intelligent, production-ready web platforms</h3>
 
 <p align="center">
-  I build intelligent, production-ready web platforms with modern JavaScript stacks and practical AI integration.
-</p>
-
-<p align="center">
-  <a href="https://junior-portfolio-orcin.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/mouad-ouaammou-36a7b8175/">LinkedIn</a> •
-  <a href="mailto:jsamassine@gmail.com">Email</a>
+  <a href="https://junior-portfolio-orcin.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mouad-ouaammou-36a7b8175/">💼 LinkedIn</a> •
+  <a href="mailto:jsamassine@gmail.com">✉️ Email</a>
 </p>
 
 <p align="center">
@@ -16,98 +13,61 @@
   <img src="https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-10B981?style=for-the-badge" />
 </p>
 
----
+<br/>
 
-## About Me
+## 🚀 About Me
 
-I’m a software engineer with 2+ years of experience shipping scalable web products and AI-powered features.
+I'm a software engineer with **2+ years of experience** shipping scalable web products and AI-powered features — from internal analytics tools to full-scale platforms used by real organizations.
 
-- Design reusable front-end architectures for fast product delivery
-- Build robust backend integrations and data pipelines
+- Design reusable front-end architectures for fast, maintainable product delivery
+- Build robust backend integrations, APIs, and data pipelines
 - Develop AI-assisted workflows and agent-style experiences
-- Focus on clean UX, performance, and maintainable code
+- Focus on clean UX, performance, and code that scales with the team
 
----
+<br/>
 
-## What I Build
+## 🛠️ What I Build
 
-- **AI Product Features**: AI-powered agents, automation workflows, and usage-aware systems  
-- **Full-Stack Web Apps**: Next.js/React frontends with scalable Node.js/Supabase backends  
-- **Business Tools**: Dashboards, analytics platforms, and operations-focused internal products  
+| | |
+|---|---|
+| **AI Product Features** | AI-powered agents, automation workflows, and usage-aware systems |
+| **Full-Stack Web Apps** | Next.js/React frontends with scalable Node.js/Supabase backends |
+| **Business Tools** | Dashboards, analytics platforms, and operations-focused internal products |
 
----
+<br/>
 
-## Experience
+## 💼 Experience
 
-### Software Engineer — OCP Maintenance Solutions
-*Sep 2025 – Present · Casablanca, Morocco*  
-🔗 https://ocp-ms.com/
+### Software Engineer — [OCP Maintenance Solutions](https://ocp-ms.com/)
+*Sep 2025 – Present · Casablanca, Morocco*
+- Delivered an internal analytics dashboard transforming raw Excel sources into dynamic, real-time insights
+- Built reusable React + Redux Toolkit modules that accelerated feature delivery across the product
+- Integrated REST services to ensure reliable, consistent data flow across teams
+- Automated recurring data workflows, cutting manual reporting overhead
 
-- Delivered an internal analytics dashboard transforming Excel sources into dynamic insights
-- Built reusable React + Redux Toolkit modules for scalable product growth
-- Integrated REST services to ensure reliable cross-team data flow
-- Automated recurring data workflows for better operational efficiency
-
-### Full Stack Web Developer — Exchange Lab
-*Aug 2024 – Sep 2025 · Remote*  
-🔗 https://www.xchangelab.info/fr
-
-- Developed a full school management platform (Next.js + Supabase)
-- Implemented RBAC, attendance tools, and admin reporting dashboards
-- Integrated Moodle API for automated student and course operations
+### Full Stack Web Developer — [Exchange Lab](https://www.xchangelab.info/fr)
+*Aug 2024 – Sep 2025 · Remote*
+- Developed a full school management platform end-to-end with Next.js + Supabase
+- Implemented role-based access control (RBAC), attendance tracking, and admin reporting dashboards
+- Integrated the Moodle API to automate student and course operations
 - Shipped responsive, modern interfaces with real-time synchronized data
 
-### Full Stack Web Developer — Codro.dev
-*Jun 2023 – Jul 2024 · Remote*  
-🔗 https://www.codro.dev/
+<br/>
 
-- Built an AI-powered Shopify theme generation agent
-- Implemented subscription and payment systems with usage tracking
-- Applied secure authentication and data protection best practices
-- Delivered end-to-end from prototype to production
 
----
 
-## Tech Stack
+## 🎓 Education
 
-**Frontend**  
-React.js · Next.js · TypeScript · Tailwind CSS · Shadcn UI · Redux Toolkit
+**1337 Coding School — UM6P** · Benguerir, Morocco · *Sep 2022 – Oct 2024*
+Project-based software engineering in C, C++, and modern web stacks, with an intensive peer-learning model and strong CS fundamentals.
 
-**Backend**  
-Node.js · Express.js · PostgreSQL · Supabase · Prisma · REST APIs
+**B.Sc. Mathematics & Computer Science — Ibn Zohr University** · Agadir, Morocco · *Aug 2017 – Sep 2021*
+Foundations in algorithms, data structures, and computational logic.
 
-**Tools**  
-Git · GitHub · Vercel · Netlify · Postman · Figma · ESLint · Prettier
+<br/>
 
----
 
-## Education
-
-### 1337 Coding School — UM6P
-*Sep 2022 – Oct 2024 · Benguerir, Morocco*
-
-- Project-based software engineering in C, C++, and modern web stacks
-- Intensive peer-learning model and strong CS fundamentals
-
-### Bachelor in Mathematics & Computer Science — Ibn Zohr University
-*Aug 2017 – Sep 2021 · Agadir, Morocco*
-
-- Foundations in algorithms, data structures, and computational logic
-
----
-
-## Languages
-
-| Language | Proficiency |
-|----------|-------------|
-| English | Professional Working |
-| French | Professional Working |
-| Arabic | Native |
-| Tamazight | Native |
-
----
-
-## Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mouad-ouaammou-36a7b8175/">
@@ -116,6 +76,9 @@ Git · GitHub · Vercel · Netlify · Postman · Figma · ESLint · Prettier
   <a href="mailto:jsamassine@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://junior-portfolio-orcin.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
-<p align="center"><b>Open to AI and full-stack opportunities.</b></p>
+<p align="center"><b>🟢 Open to AI and full-stack opportunities.</b></p>
