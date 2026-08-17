@@ -2,7 +2,7 @@
 <h3 align="center">AI & Full-Stack Developer building intelligent, production-ready web platforms</h3>
 
 <p align="center">
-  <a href="https://junior-portfolio-orcin.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://software-developer-c43u.vercel.app/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/mouad-ouaammou-36a7b8175/">💼 LinkedIn</a> •
   <a href="mailto:jsamassine@gmail.com">✉️ Email</a>
 </p>
